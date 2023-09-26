@@ -16,5 +16,3 @@ The project will be completed using the Python programming language and the Kera
 Expected outcomes:
 
 A trained deep learning model that can classify handwritten digits from 0 to 9 with high accuracy.
-A report that describes the project methodology and results.
-A presentation that summarizes the project findings.
